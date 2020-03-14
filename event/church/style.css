@@ -1,7 +1,7 @@
 .flex-container {
   display: flex;
   flex-wrap: wrap;
-  background-color: rgb(0, 255, 34);
+  background-color: #ddf0e2;
 }
 .image {
   margin: 5px;
