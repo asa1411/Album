@@ -1,0 +1,17 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  float: left;
+}
+.image {
+  border: 1px black;
+  background-color: azure;
+}
+.image img {
+  width: 350px;
+}
+.desc {
+  padding: 15px;
+  border: 2px black;
+  text-align: center;
+}
