@@ -9,6 +9,7 @@
 }
 .image img {
   width: 350px;
+  padding: 10px;
 }
 .desc {
   padding: 15px;
