@@ -1,0 +1,12 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 1fr;
+    background-color: lightskyblue;
+    padding: 10px;
+}
+.grid-items {
+    background-color: lightyellow;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    text-align: left;
+}
