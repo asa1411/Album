@@ -1,0 +1,18 @@
+.grid-container1 {
+    display: grid;
+    grid-template-columns: fr;
+    background-color: lightskyblue;
+    padding: 10px;
+}
+.grid-container2 {
+    display: grid;
+    grid-template-columns: fr;
+    background-color: rgb(196, 250, 135);
+    padding: 10px;
+}
+.griditem {
+    background-color: lightyellow;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    text-align: left;
+}
