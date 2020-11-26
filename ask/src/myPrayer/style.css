@@ -1,3 +1,9 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: fr;
+    background-color: rgb(250, 135, 231);
+    padding: 10px;
+}
 .grid-container1 {
     display: grid;
     grid-template-columns: fr;
