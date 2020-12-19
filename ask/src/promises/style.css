@@ -7,7 +7,12 @@
     display: grid;
     background-color: violet;
     padding: 10px;
-}
+    }
+    .grid-container3 {
+        display: grid;
+        background-color: rgb(135, 128, 153);
+        padding: 10px;
+    }
 .griditem {
     border: 1px solid black;
     background-color: whitesmoke;
