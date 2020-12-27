@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+div .photo {
+  flex-basis: 300px;
+  max-width: 100%;
+
+  border: 1px solid yellow;
+  margin: 15px;
+}
+div .photo .desc {
+  height: 50px;
+  text-align: center;
+
+  padding-top: 20px;
+}
+div .family {
+  text-align: center;
+}
+div .tenk {
+  text-align: center;
+}
