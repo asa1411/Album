@@ -3,6 +3,23 @@
   flex-wrap: wrap;
   background-color: #f0ddec;
 }
+.flex-container1 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color:forestgreen;
+}
+.images {
+  margin: 5px;
+  border: 1px solid gray;
+  width: 450px;
+  
+}
+
+.images img {
+  width: 100%;
+  height: auto;
+}
+
 .image {
   margin: 5px;
   border: 1px solid #ccc;
