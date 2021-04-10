@@ -3,6 +3,11 @@
   flex-wrap: wrap;
   background-color: #ddf0e2;
 }
+.flex-container-2021 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #e5ddf0;
+}
 .image {
   margin: 5px;
   border: 1px solid #ccc;
