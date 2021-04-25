@@ -1,6 +1,7 @@
 .grid-container {
     display: grid;
-    grid-template-columns: 1fr 2fr 2fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
     background-color: lightskyblue;
     padding: 10px;
 }
