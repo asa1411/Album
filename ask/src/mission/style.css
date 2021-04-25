@@ -11,3 +11,9 @@
     padding: 20px;
     text-align: left;
 }
+.grid-container img {
+    height: auto;
+    width: 360px;
+    display: block;
+    padding: 10px;
+}
