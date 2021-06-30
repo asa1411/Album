@@ -1,0 +1,16 @@
+.flex-container {
+    display: flexbox;
+    flex-wrap: wrap;
+    background-color: rgb(152, 224, 188);
+  }
+  .image {
+    margin: 5px;
+    border: 1px solid;
+    float: left;
+    width: 360px;
+  }
+  .image img {
+    width: 100%;
+    height: auto;
+  }
+ 
