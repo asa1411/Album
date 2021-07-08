@@ -17,21 +17,24 @@
     text-align: left;
 }
 #count-el{
+    display: block;
     background-color: blueviolet;
     padding: 2px;
     margin-left: auto;
     margin-right: auto;
-    width: 100px;
+    width: 150px;
+    height: 50px;
     text-align: center;
 }
 #increment-btn{
     display: block;
-    background-color: brown;
-    height: 30px;
+    background-color: yellowgreen;
+    height: 100px;
     width: 150px;
     padding: 5px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    font-size: larger;
 
 }
