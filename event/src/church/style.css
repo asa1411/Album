@@ -4,9 +4,15 @@
   background-color: #ddf0e2;
 }
 .flex-container-2021 {
+
   display: flex;
   flex-wrap: wrap;
   background-color: #e5ddf0;
+}
+.flex-container-2022 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: azure;
 }
 .image {
   margin: 5px;
