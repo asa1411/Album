@@ -8,6 +8,11 @@
   flex-wrap: wrap;
   background-color: burlywood;
 }
+.flex-container24 {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(135, 136, 222);
+}
 
 .flex-container {
   display: flex;
@@ -15,7 +20,7 @@
   background-color: lightblue;
 }
 .image {
-  margin: 5px;
+  margin: 10px;
   border: 1px solid #ccc;
   float: left;
   width: 360px;
