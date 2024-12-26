@@ -1,0 +1,24 @@
+  .flex-container24 {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(135, 136, 222);
+  }
+  
+  .image {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 360px;
+  }
+  
+  /*.image img:hover {
+    border: 1px solid #777;
+  }*/
+  .image img {
+    width: 100%;
+    height: auto;
+  }
+  div .desc {
+    padding: 15px;
+    text-align: center;
+  }
