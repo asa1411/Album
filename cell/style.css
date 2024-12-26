@@ -28,6 +28,7 @@
 .flex-Thanks {
   display: flex;
   flex-wrap: wrap;  
+  width: 360px;
 }
 
 .image1 {
