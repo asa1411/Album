@@ -25,19 +25,7 @@
   float: left;
   width: 360px;
 }
-.flex-Thanks {
-  display: flex;
-  flex-wrap: wrap;  
-  background-color: lightblue;
-}
 
-.image1 {
-  margin: 10px;
-  border: 1px solid #ccc;
-  float: center;
-  width: 360px;
-  
-}
 /*.image img:hover {
   border: 1px solid #777;
 }*/
